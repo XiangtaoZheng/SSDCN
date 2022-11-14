@@ -1,6 +1,6 @@
 # SSDCN
 
-# Pairwise Comparison Network for Remote Sensing Scene Classification
+# Semi-Supervised Spectral Degradation Constrained Network for Spectral Super-Resolution
 
 ### 1. Introduction
 
